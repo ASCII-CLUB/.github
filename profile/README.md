@@ -6,9 +6,9 @@ Welcome to the official GitHub organization for ASCII (Appalachian Society for C
 ASCII is a vibrant and inclusive club dedicated to anyone passionate about computer science. Whether you're a seasoned coder or just getting started in the world of programming, ASCII is the place for you. We aim to provide opportunities for our members to enhance their skills outside the classroom through coding projects, workshops, and various CS-related events.
 
 # What We Do
-* Coding Projects: Participate in collaborative projects that span various areas of computer science.
-* Workshops: Attend hands-on workshops on topics ranging from programming languages to software development best practices.
-* CS Events: Join us for hackathons, guest speaker events, and more to network with peers and industry professionals.
+* **Coding Projects:** Participate in collaborative projects that span various areas of computer science.
+* **Workshops:** Attend hands-on workshops on topics ranging from programming languages to software development best practices.
+* **CS Events:** Join us for hackathons, guest speaker events, and more to network with peers and industry professionals.
 
 # Meetings
 * We meet biweekly in ABH 318. Keep an eye on our announcements for exact dates and times.

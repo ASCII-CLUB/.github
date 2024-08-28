@@ -14,9 +14,9 @@ ASCII is a vibrant and inclusive club dedicated to anyone passionate about compu
 * We meet biweekly in ABH 318. Keep an eye on our announcements for exact dates and times.
 
 # Connect with Us
-[Instagram: @asciiclub](https://www.instagram.com/ascii_appstate/)
-[Discord: Join our Discord community](https://discord.gg/44V38WZ9nh)
-[Engage Page: ASCII on Engage](https://appstate.campuslabs.com/engage/organization/appalachian-society-for-computing-informatics-and-)
+[Instagram: @asciiclub](https://www.instagram.com/ascii_appstate/) </br>
+[Discord: Join our Discord community](https://discord.gg/44V38WZ9nh) </br>
+[Engage Page: ASCII on Engage](https://appstate.campuslabs.com/engage/organization/appalachian-society-for-computing-informatics-and-) </br>
 [Email us](alchabom@appstate.edu)
 
 # Get Involved

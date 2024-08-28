@@ -14,10 +14,10 @@ ASCII is a vibrant and inclusive club dedicated to anyone passionate about compu
 * We meet biweekly in ABH 318. Keep an eye on our announcements for exact dates and times.
 
 # Connect with Us
-**Instagram: [@ascii_appstate](https://www.instagram.com/ascii_appstate/) </br>
-**Discord: [Join our Discord community](https://discord.gg/44V38WZ9nh) </br>
-**Engage Page: [ASCII on Engage](https://appstate.campuslabs.com/engage/organization/appalachian-society-for-computing-informatics-and-) </br>
-**[Email us](alchabom@appstate.edu)
+**Instagram:** [@ascii_appstate](https://www.instagram.com/ascii_appstate/) </br>
+**Discord:** [Join our Discord community](https://discord.gg/44V38WZ9nh) </br>
+**Engage Page:** [ASCII on Engage](https://appstate.campuslabs.com/engage/organization/appalachian-society-for-computing-informatics-and-) </br>
+**[Email us](alchabom@appstate.edu)**
 
 # Get Involved
 Feel free to explore our repositories. If you have an idea for a new project don't hesitate to reach out to us!

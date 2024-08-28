@@ -1,4 +1,4 @@
-# .Welcome to ASCII - Appalachian Society for Computing, Informatics, and Innovation
+#Welcome to ASCII - Appalachian Society for Computing, Informatics, and Innovation
 
 Welcome to the official GitHub organization for ASCII (Appalachian Society for Computing, Informatics, and Innovation) at Appalachian State University!
 
